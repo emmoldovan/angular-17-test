@@ -1,0 +1,130 @@
+[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[36m⠧[39m Building...[2K[1G[36m⠇[39m Building...[2K[1G[36m⠏[39m Building...[2K[1G[36m⠋[39m Building...[2K[1G[36m⠙[39m Building...[2K[1G[36m⠹[39m Building...[2K[1G[36m⠸[39m Building...[2K[1G[36m⠼[39m Building...[2K[1G[36m⠴[39m Building...[2K[1G[36m⠦[39m Building...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m [96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m [96m32.07 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m  [96m9.75 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m124.54 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [2.967 seconds][39m
+[37mWatch mode enabled. Watching for file changes...[39m
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m4200[22m/[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m [2m | [22m[1mRaw Size[22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles[2m | [22m[96m34.43 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.489 seconds][39m
+[37mHMR update sent to client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m10.26 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.320 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[36m⠴[39m Changes detected. Rebuilding...[2K[1G[36m⠦[39m Changes detected. Rebuilding...[2K[1G[36m⠧[39m Changes detected. Rebuilding...[2K[1G[36m⠇[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m10.46 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.748 seconds][39m
+[37mReloading client(s)...[39m
+[2m4:37:12 PM[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33m@angular/fire/app[32m[39m
+[2m4:37:12 PM[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[36m⠴[39m Changes detected. Rebuilding...[2K[1G[36m⠦[39m Changes detected. Rebuilding...[2K[1G[36m⠧[39m Changes detected. Rebuilding...[2K[1G[36m⠇[39m Changes detected. Rebuilding...[2K[1G[36m⠏[39m Changes detected. Rebuilding...[2K[1G[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m10.56 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [1.309 seconds][39m
+[37mReloading client(s)...[39m
+[2m4:40:21 PM[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33m@angular/fire/compat/auth[32m[39m
+[2m4:40:21 PM[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[2K[1G[36m⠼[39m Changes detected. Rebuilding...[2K[1G[36m⠴[39m Changes detected. Rebuilding...[2K[1G[36m⠦[39m Changes detected. Rebuilding...[2K[1G[36m⠧[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m10.65 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.651 seconds][39m
+[37mReloading client(s)...[39m
+[2m4:43:12 PM[22m [36m[1m[vite][22m[39m [32m✨ new dependencies optimized: [33m@angular/fire/auth[32m[39m
+[2m4:43:12 PM[22m [36m[1m[vite][22m[39m [32m✨ optimized dependencies changed. reloading[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[36m⠸[39m Changes detected. Rebuilding...[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mC:\Users\Emanuel\Personals\development\angular-17-test\src\app\features\login\login.component.ts: Unexpected token (20:8)[39m[22m
+[1m[31m[39m[22m
+[1m[31m  18 |     createUser() {[39m[22m
+[1m[31m  19 |         this.auth.[39m[22m
+[1m[31m> 20 |         ;[39m[22m
+[1m[31m     |         ^[39m[22m
+[1m[31m  21 |     }[39m[22m
+[1m[31m  22 |     static { this.ɵfac = function LoginComponent_Factory(t) { return new (t || LoginComponent)(); }; }[39m[22m
+[1m[31m  23 |     static { this.ɵcmp = /*@__PURE__*/ i0.ɵɵdefineComponent({ type: LoginComponent, selectors: [["app-login"]], standalone: true, features: [i0.ɵɵStandaloneFeature], decls: 33, vars: 1, consts: [[1, "bg-gray-50", "dark:bg-gray-900"], [1, "flex", "flex-col", "items-center", "justify-center", "px-6", "py-8", "mx-auto", "md:h-screen", "lg:py-0"], ["href", "#", 1, "flex", "items-center", "mb-6", "text-2xl", "font-semibold", "text-gray-900", "dark:text-white"], ["src", "https://flowbite.s3.amazonaws.com/blocks/marketing-ui/logo.svg", "alt", "logo", 1, "w-8", "h-8", "mr-2"], [1, "w-full", "bg-white", "rounded-lg", "shadow", "dark:border", "md:mt-0", "sm:max-w-md", "xl:p-0", "dark:bg-gray-800", "dark:border-gray-700"], [1, "p-6", "space-y-4", "md:space-y-6", "sm:p-8"], [1, "text-xl", "font-bold", "leading-tight", "tracking-tight", "text-gray-900", "md:text-2xl", "dark:text-white"], [1, "space-y-4", "md:space-y-6", 3, "formGroup", "ngSubmit"], ["for", "email", 1, "block", "mb-2", "text-sm", "font-medium", "text-gray-900", "dark:text-white"], ["formControlName", "email", "type", "email", "name", "email", "id", "email", "placeholder", "name@company.com", "required", "", 1, "bg-gray-50", "border", "border-gray-300", "text-gray-900", "sm:text-sm", "rounded-lg", "focus:ring-primary-600", "focus:border-primary-600", "block", "w-full", "p-2.5", "dark:bg-gray-700", "dark:border-gray-600", "dark:placeholder-gray-400", "dark:text-white", "dark:focus:ring-blue-500", "dark:focus:border-blue-500"], ["for", "password", 1, "block", "mb-2", "text-sm", "font-medium", "text-gray-900", "dark:text-white"], ["formCo[39m[22m[1m[31mntrolName", "password", "type", "password", "name", "password", "id", "password", "placeholder", "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022", "required", "", 1, "bg-gray-50", "border", "border-gray-300", "text-gray-900", "sm:text-sm", "rounded-lg", "focus:ring-primary-600", "focus:border-primary-600", "block", "w-full", "p-2.5", "dark:bg-gray-700", "dark:border-gray-600", "dark:placeholder-gray-400", "dark:text-white", "dark:focus:ring-blue-500", "dark:focus:border-blue-500"], [1, "flex", "items-center", "justify-between"], [1, "flex", "items-start"], [1, "flex", "items-center", "h-5"], ["id", "remember", "aria-describedby", "remember", "type", "checkbox", "required", "", 1, "w-4", "h-4", "border", "border-gray-300", "rounded", "bg-gray-50", "focus:ring-3", "focus:ring-primary-300", "dark:bg-gray-700", "dark:border-gray-600", "dark:focus:ring-primary-600", "dark:ring-offset-gray-800"], [1, "ml-3", "text-sm"], ["for", "remember", 1, "text-gray-500", "dark:text-gray-300"], ["href", "#", 1, "text-sm", "font-medium", "text-primary-600", "hover:underline", "dark:text-primary-500"], ["type", "submit", 1, "w-full", "text-white", "bg-primary-600", "hover:bg-primary-700", "focus:ring-4", "focus:outline-none", "focus:ring-primary-300", "font-medium", "rounded-lg", "text-sm", "px-5", "py-2.5", "text-center", "dark:bg-primary-600", "dark:hover:bg-primary-700", "dark:focus:ring-primary-800"], [1, "text-sm", "font-light", "text-gray-500", "dark:text-gray-400"], ["href", "#", 1, "font-medium", "text-primary-600", "hover:underline", "dark:text-primary-500"]], template: function LoginComponent_Template(rf, ctx) { if (rf & 1) {[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/app.routes.ts:1:31:[39m[22m
+[1m[31m[37m      1 │ import { LoginComponent } from [32m'./features/login/login.component'[37m;[39m[22m
+[1m[31m        ╵                                [32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m  This error came from the "onLoad" callback registered here:[39m[22m
+[1m[31m[39m[22m
+[1m[31m    node_modules/@angular-devkit/build[39m[22m[1m[31m-angular/src/tools/esbuild/angular/compiler-plugin.js:255:18:[39m[22m
+[1m[31m[37m      255 │             build.[32monLoad[37m({ filter: /\.[cm]?[jt]sx?$/ }, async (ar...[39m[22m
+[1m[31m          ╵                   [32m~~~~~~[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    at setup (C:\Users\Emanuel\Personals\development\angular-17-test\node_modules\@angular-devkit\build-angular\src\tools\esbuild\angular\compiler-plugin.js:255:19)[39m[22m
+[1m[31m    at async handlePlugins (C:\Users\Emanuel\Personals\development\angular-17-test\node_modules\esbuild\lib\main.js:1340:9)[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[31m✘ [41;31m[[41;97mERROR[41;31m][0m [1mTS1003: Identifier expected.[0m [1m[35m[plugin angular-compiler][0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m    src/app/features/login/login.component.ts:32:2:[39m[22m
+[1m[31m[37m      32 │   [32m}[37m[39m[22m
+[1m[31m         ╵   [32m^[0m[39m[22m
+[1m[31m[39m[22m
+[1m[31m[39m[22m
+[2K[1G[37mApplication bundle generation failed. [0.318 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m        [2m | [22m [1mRaw Size[22m[39m
+[37m[92mpolyfills.js[39m[37m       [2m | [22mpolyfills    [2m | [22m [96m82.71 kB[39m[37m[2m | [22m[39m
+[37m[92mstyles.css[39m[37m         [2m | [22mstyles       [2m | [22m [96m34.43 kB[39m[37m[2m | [22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain         [2m | [22m [96m10.78 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37m[1m [22m                  [2m | [22m[1mInitial Total[22m[2m | [22m[1m127.92 kB[22m[39m
+[37m[39m
+[37mApplication bundle generation complete. [0.251 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m10.88 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.216 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.196 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.111 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37mNo output file changes.[39m
+[37m[39m
+[37mUnchanged output files: 3[39m
+[37mApplication bundle generation complete. [0.068 seconds][39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m10.85 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.187 seconds][39m
+[37mReloading client(s)...[39m
+[36m⠋[39m Changes detected. Rebuilding...[2K[1G[36m⠙[39m Changes detected. Rebuilding...[2K[1G[36m⠹[39m Changes detected. Rebuilding...[2K[1G[37m[39m
+[37m[1mInitial Chunk Files[22m[2m | [22m[1mNames[22m[2m | [22m[1mRaw Size[22m[39m
+[37m[92mmain.js[39m[37m            [2m | [22mmain [2m | [22m[96m10.80 kB[39m[37m[2m | [22m[39m
+[37m[39m
+[37mUnchanged output files: 2[39m
+[37mApplication bundle generation complete. [0.175 seconds][39m
+[37mReloading client(s)...[39m

@@ -1,0 +1,226 @@
+[NX Daemon Server] - 2023-11-24T13:55:13.925Z - Started listening on: \\.\pipe\nx\C:\Users\Emanuel\AppData\Local\Temp\0562138beecbb8e0b6a1\d.sock
+[NX Daemon Server] - 2023-11-24T13:55:13.927Z - [WATCHER]: Subscribed to changes within: c:\Users\Emanuel\Personals\development\angular-17-test (native)
+[NX Daemon Server] - 2023-11-24T13:55:13.930Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:55:13.932Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-24T13:55:13.932Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:55:13.934Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T13:55:14.009Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-24T13:55:14.010Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-24T13:55:14.010Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-24T13:55:14.063Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T13:55:14.064Z - Time taken for 'total for creating and serializing project graph' 129.1204000003636ms
+[NX Daemon Server] - 2023-11-24T13:55:14.064Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T13:55:14.064Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 129. Response time: 1.
+[NX Daemon Server] - 2023-11-24T13:55:14.068Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-24T13:55:14.068Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:55:14.069Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-24T13:55:14.069Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:55:14.071Z - [REQUEST]: Responding to the client. handleRequestFileData
+[NX Daemon Server] - 2023-11-24T13:55:14.071Z - Done responding to the client handleRequestFileData
+[NX Daemon Server] - 2023-11-24T13:55:14.071Z - Handled REQUEST_FILE_DATA. Handling time: 1. Response time: 0.
+[NX Daemon Server] - 2023-11-24T13:56:06.455Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:56:06.456Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:56:06.456Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:56:06.458Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T13:56:06.459Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T13:56:06.460Z - Time taken for 'total for creating and serializing project graph' 0.24699999950826168ms
+[NX Daemon Server] - 2023-11-24T13:56:06.460Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T13:56:06.460Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 1.
+[NX Daemon Server] - 2023-11-24T13:56:08.309Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:56:11.700Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:56:11.700Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:56:11.701Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:56:11.703Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T13:56:11.703Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T13:56:11.704Z - Time taken for 'total for creating and serializing project graph' 0.11309999972581863ms
+[NX Daemon Server] - 2023-11-24T13:56:11.705Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T13:56:11.705Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-24T13:56:12.006Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:56:29.614Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:56:29.614Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:56:29.615Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:56:29.617Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T13:56:29.617Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T13:56:29.618Z - Time taken for 'total for creating and serializing project graph' 0.1631000004708767ms
+[NX Daemon Server] - 2023-11-24T13:56:29.618Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T13:56:29.619Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-24T13:56:29.873Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:57:08.006Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:57:08.006Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:57:08.007Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:57:08.009Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T13:57:08.009Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T13:57:08.010Z - Time taken for 'total for creating and serializing project graph' 0.19299999997019768ms
+[NX Daemon Server] - 2023-11-24T13:57:08.011Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T13:57:08.011Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-24T13:57:08.312Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:57:16.203Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:57:16.203Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:57:16.204Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:57:16.206Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T13:57:16.206Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T13:57:16.207Z - Time taken for 'total for creating and serializing project graph' 0.11720000021159649ms
+[NX Daemon Server] - 2023-11-24T13:57:16.208Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T13:57:16.208Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-24T13:57:16.487Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:57:16.545Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-24T13:57:16.545Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-24T13:57:16.664Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-24T13:57:16.664Z - [REQUEST]: features/dashboard.component.ts,features/dashboard.component.html,features/dashboard.component.spec.ts,features/dashboard.component.scss
+[NX Daemon Server] - 2023-11-24T13:57:16.664Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-24T13:57:16.700Z - Time taken for 'hash changed files from watcher' 0.25840000063180923ms
+[NX Daemon Server] - 2023-11-24T13:57:52.837Z - [WATCHER]: features was deleted
+[NX Daemon Server] - 2023-11-24T13:57:52.837Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-24T13:57:53.057Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-24T13:57:53.057Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-24T13:57:53.057Z - [REQUEST]: features
+[NX Daemon Server] - 2023-11-24T13:57:53.115Z - Time taken for 'hash changed files from watcher' 0.14769999962300062ms
+[NX Daemon Server] - 2023-11-24T13:58:13.642Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:58:13.643Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:58:13.644Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:58:13.646Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T13:58:13.646Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T13:58:13.647Z - Time taken for 'total for creating and serializing project graph' 0.10800000000745058ms
+[NX Daemon Server] - 2023-11-24T13:58:13.647Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T13:58:13.647Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-11-24T13:58:13.925Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:58:17.275Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:58:17.275Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:58:17.276Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:58:17.278Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T13:58:17.278Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T13:58:17.279Z - Time taken for 'total for creating and serializing project graph' 0.10859999991953373ms
+[NX Daemon Server] - 2023-11-24T13:58:17.280Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T13:58:17.280Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 2.
+[NX Daemon Server] - 2023-11-24T13:58:17.528Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:58:23.311Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:58:23.311Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:58:23.312Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:58:23.314Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T13:58:23.314Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T13:58:23.315Z - Time taken for 'total for creating and serializing project graph' 0.11299999989569187ms
+[NX Daemon Server] - 2023-11-24T13:58:23.315Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T13:58:23.315Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-11-24T13:58:23.631Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:58:32.374Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:58:32.375Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:58:32.376Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:58:32.381Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T13:58:32.382Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T13:58:32.383Z - Time taken for 'total for creating and serializing project graph' 0.21760000009089708ms
+[NX Daemon Server] - 2023-11-24T13:58:32.384Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T13:58:32.384Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 1. Response time: 2.
+[NX Daemon Server] - 2023-11-24T13:58:32.697Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:58:33.479Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:58:33.479Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:58:33.480Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T13:58:33.482Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T13:58:33.482Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T13:58:33.483Z - Time taken for 'total for creating and serializing project graph' 0.12669999990612268ms
+[NX Daemon Server] - 2023-11-24T13:58:33.483Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T13:58:33.483Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 1.
+[NX Daemon Server] - 2023-11-24T13:58:33.775Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T13:58:33.822Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-24T13:58:33.823Z - [WATCHER]: 4 file(s) created or restored, 0 file(s) modified, 0 file(s) deleted
+[NX Daemon Server] - 2023-11-24T13:58:33.940Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-24T13:58:33.940Z - [REQUEST]: src/app/features/dashboard.component.scss,src/app/features/dashboard.component.spec.ts,src/app/features/dashboard.component.html,src/app/features/dashboard.component.ts
+[NX Daemon Server] - 2023-11-24T13:58:33.940Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-24T13:58:33.961Z - Error detected when creating a project graph: Failed to process project dependencies with "nx-js-graph-plugin".
+"Unable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.spec.ts: The system cannot find the path specified. (os error 3)\nUnable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.ts: The system cannot find the path specified. (os error 3)"
+[NX Daemon Server] - 2023-11-24T13:58:33.961Z - Time taken for 'hash changed files from watcher' 0.4353999998420477ms
+[NX Daemon Server] - 2023-11-24T13:59:06.433Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-24T13:59:06.435Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-24T13:59:06.564Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-24T13:59:06.564Z - [REQUEST]: src/app/features/dashboard/dashboard.component.html
+[NX Daemon Server] - 2023-11-24T13:59:06.564Z - [REQUEST]: src/app/features/dashboard.component.html
+[NX Daemon Server] - 2023-11-24T13:59:06.618Z - Error detected when creating a project graph: Failed to process project dependencies with "nx-js-graph-plugin".
+"Unable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.spec.ts: The system cannot find the path specified. (os error 3)\nUnable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.ts: The system cannot find the path specified. (os error 3)"
+[NX Daemon Server] - 2023-11-24T13:59:06.619Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-24T13:59:06.622Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-24T13:59:06.622Z - Time taken for 'hash changed files from watcher' 0.5128000006079674ms
+[NX Daemon Server] - 2023-11-24T13:59:06.764Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-24T13:59:06.764Z - [REQUEST]: src/app/features/dashboard/dashboard.component.scss
+[NX Daemon Server] - 2023-11-24T13:59:06.764Z - [REQUEST]: src/app/features/dashboard.component.scss
+[NX Daemon Server] - 2023-11-24T13:59:06.821Z - Error detected when creating a project graph: Failed to process project dependencies with "nx-js-graph-plugin".
+"Unable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.spec.ts: The system cannot find the path specified. (os error 3)\nUnable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.ts: The system cannot find the path specified. (os error 3)\nUnable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\src\\app\\features\\dashboard.component.spec.ts: The system cannot find the file specified. (os error 2)"
+[NX Daemon Server] - 2023-11-24T13:59:06.822Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-24T13:59:06.825Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-24T13:59:06.826Z - Time taken for 'hash changed files from watcher' 0.2668000003322959ms
+[NX Daemon Server] - 2023-11-24T13:59:06.956Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-24T13:59:06.956Z - [REQUEST]: src/app/features/dashboard/dashboard.component.spec.ts
+[NX Daemon Server] - 2023-11-24T13:59:06.956Z - [REQUEST]: src/app/features/dashboard.component.spec.ts
+[NX Daemon Server] - 2023-11-24T13:59:06.995Z - Error detected when creating a project graph: Failed to process project dependencies with "nx-js-graph-plugin".
+"Unable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.spec.ts: The system cannot find the path specified. (os error 3)\nUnable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.ts: The system cannot find the path specified. (os error 3)\nUnable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\src\\app\\features\\dashboard.component.ts: The system cannot find the file specified. (os error 2)"
+[NX Daemon Server] - 2023-11-24T13:59:06.997Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-24T13:59:06.999Z - [WATCHER]: 1 file(s) created or restored, 0 file(s) modified, 1 file(s) deleted
+[NX Daemon Server] - 2023-11-24T13:59:06.999Z - Time taken for 'hash changed files from watcher' 0.7044999999925494ms
+[NX Daemon Server] - 2023-11-24T13:59:07.147Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-24T13:59:07.147Z - [REQUEST]: src/app/features/dashboard/dashboard.component.ts
+[NX Daemon Server] - 2023-11-24T13:59:07.147Z - [REQUEST]: src/app/features/dashboard.component.ts
+[NX Daemon Server] - 2023-11-24T13:59:07.210Z - Error detected when creating a project graph: Failed to process project dependencies with "nx-js-graph-plugin".
+"Unable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.spec.ts: The system cannot find the path specified. (os error 3)\nUnable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.ts: The system cannot find the path specified. (os error 3)"
+[NX Daemon Server] - 2023-11-24T13:59:07.211Z - Time taken for 'hash changed files from watcher' 0.8793000001460314ms
+[NX Daemon Server] - 2023-11-24T13:59:55.174Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-24T13:59:55.175Z - [WATCHER]: src/app/app.routes.ts was modified
+[NX Daemon Server] - 2023-11-24T13:59:55.388Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-24T13:59:55.388Z - [REQUEST]: src/app/app.routes.ts
+[NX Daemon Server] - 2023-11-24T13:59:55.388Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-24T13:59:55.409Z - Error detected when creating a project graph: Failed to process project dependencies with "nx-js-graph-plugin".
+"Unable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.spec.ts: The system cannot find the path specified. (os error 3)\nUnable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.ts: The system cannot find the path specified. (os error 3)"
+[NX Daemon Server] - 2023-11-24T13:59:55.410Z - Time taken for 'hash changed files from watcher' 0.3014000002294779ms
+[NX Daemon Server] - 2023-11-24T14:00:14.526Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-24T14:00:14.527Z - [WATCHER]: src/app/app.component.html was modified
+[NX Daemon Server] - 2023-11-24T14:00:14.938Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-24T14:00:14.938Z - [REQUEST]: src/app/app.component.html
+[NX Daemon Server] - 2023-11-24T14:00:14.938Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-24T14:00:14.957Z - Error detected when creating a project graph: Failed to process project dependencies with "nx-js-graph-plugin".
+"Unable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.spec.ts: The system cannot find the path specified. (os error 3)\nUnable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.ts: The system cannot find the path specified. (os error 3)"
+[NX Daemon Server] - 2023-11-24T14:00:14.958Z - Time taken for 'hash changed files from watcher' 0.3678999999538064ms
+[NX Daemon Server] - 2023-11-24T14:00:33.411Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T14:00:33.412Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T14:00:33.413Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T14:00:33.415Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T14:00:33.415Z - [REQUEST]: Responding to the client with an error. Error when preparing serialized project graph. Failed to process project dependencies with "nx-js-graph-plugin".
+"Unable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.spec.ts: The system cannot find the path specified. (os error 3)\nUnable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.ts: The system cannot find the path specified. (os error 3)"
+Error: Failed to process project dependencies with "nx-js-graph-plugin".
+"Unable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.spec.ts: The system cannot find the path specified. (os error 3)\nUnable to load c:\\Users\\Emanuel\\Personals\\development\\angular-17-test\\features\\dashboard.component.ts: The system cannot find the path specified. (os error 3)"
+    at buildExplicitTypeScriptDependencies (c:\Users\Emanuel\Personals\development\angular-17-test\node_modules\nx\src\plugins\js\project-graph\build-dependencies\explicit-project-dependencies.js:61:21)
+    at buildExplicitDependencies (c:\Users\Emanuel\Personals\development\angular-17-test\node_modules\nx\src\plugins\js\project-graph\build-dependencies\build-dependencies.js:19:120)
+    at Object.createDependencies (c:\Users\Emanuel\Personals\development\angular-17-test\node_modules\nx\src\plugins\js\index.js:70:92)
+    at c:\Users\Emanuel\Personals\development\angular-17-test\node_modules\nx\src\project-graph\build-project-graph.js:180:47
+    at Array.map (<anonymous>)
+    at updateProjectGraphWithPlugins (c:\Users\Emanuel\Personals\development\angular-17-test\node_modules\nx\src\project-graph\build-project-graph.js:178:47)
+    at async buildProjectGraphUsingContext (c:\Users\Emanuel\Personals\development\angular-17-test\node_modules\nx\src\project-graph\build-project-graph.js:98:15)
+    at async buildProjectGraphUsingProjectFileMap (c:\Users\Emanuel\Personals\development\angular-17-test\node_modules\nx\src\project-graph\build-project-graph.js:62:24)
+    at async createAndSerializeProjectGraph (c:\Users\Emanuel\Personals\development\angular-17-test\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:171:55)
+    at async Timeout._onTimeout (c:\Users\Emanuel\Personals\development\angular-17-test\node_modules\nx\src\daemon\server\project-graph-incremental-recomputation.js:79:13) {
+  code: 'GenericFailure'
+}
+[NX Daemon Server] - 2023-11-24T14:00:33.417Z - Done responding to the client null
+[NX Daemon Server] - 2023-11-24T14:00:54.641Z - Started listening on: \\.\pipe\nx\C:\Users\Emanuel\AppData\Local\Temp\0562138beecbb8e0b6a1\d.sock
+[NX Daemon Server] - 2023-11-24T14:00:54.644Z - [WATCHER]: Subscribed to changes within: C:\Users\Emanuel\Personals\development\angular-17-test (native)
+[NX Daemon Server] - 2023-11-24T14:00:54.646Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T14:00:54.648Z - Closed a connection. Number of open connections: 0
+[NX Daemon Server] - 2023-11-24T14:00:54.648Z - Established a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T14:00:54.651Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T14:00:54.721Z - [REQUEST]: Updated file-hasher based on watched changes, recomputing project graph...
+[NX Daemon Server] - 2023-11-24T14:00:54.721Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-24T14:00:54.721Z - [REQUEST]: 
+[NX Daemon Server] - 2023-11-24T14:00:54.786Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T14:00:54.787Z - Time taken for 'total for creating and serializing project graph' 135.1062000002712ms
+[NX Daemon Server] - 2023-11-24T14:00:54.787Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T14:00:54.787Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 136. Response time: 1.
+[NX Daemon Server] - 2023-11-24T14:00:54.879Z - [REQUEST]: Responding to the client. handleHashTasks
+[NX Daemon Server] - 2023-11-24T14:00:54.882Z - Done responding to the client handleHashTasks
+[NX Daemon Server] - 2023-11-24T14:00:54.882Z - Handled HASH_TASKS. Handling time: 34. Response time: 3.
+[NX Daemon Server] - 2023-11-24T14:00:56.302Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T14:00:56.303Z - Closed a connection. Number of open connections: 1
+[NX Daemon Server] - 2023-11-24T14:00:56.304Z - Established a connection. Number of open connections: 2
+[NX Daemon Server] - 2023-11-24T14:00:56.307Z - [REQUEST]: Client Request for Project Graph Received
+[NX Daemon Server] - 2023-11-24T14:00:56.307Z - [REQUEST]: Responding to the client. project-graph
+[NX Daemon Server] - 2023-11-24T14:00:56.308Z - Time taken for 'total for creating and serializing project graph' 0.2642000000923872ms
+[NX Daemon Server] - 2023-11-24T14:00:56.310Z - Done responding to the client project-graph
+[NX Daemon Server] - 2023-11-24T14:00:56.311Z - Handled REQUEST_PROJECT_GRAPH. Handling time: 0. Response time: 4.
+[NX Daemon Server] - 2023-11-24T14:00:59.060Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-24T14:00:59.739Z - [WATCHER]: Processing file changes in outputs
+[NX Daemon Server] - 2023-11-24T14:01:01.828Z - [WATCHER]: Processing file changes in outputs
